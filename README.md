@@ -17,3 +17,14 @@ I want to become a skilled game developer and continue learning programming and 
 - CSS
 - Access
 - Excel
+
+## Interests
+
+- Programming
+- Web Development
+- Artificial Intelligence## Interests
+
+- Programming
+- Web Development
+- Game Development
+- Artificial Intelligence
