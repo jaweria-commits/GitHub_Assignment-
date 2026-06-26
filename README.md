@@ -9,3 +9,11 @@ BS ArtificialIntelligence / Semester first
 
 Career Goals:
 I want to become a skilled game developer and continue learning programming and modern technologies.
+
+## Skills
+
+- C++
+- HTML
+- CSS
+- Access
+- Excel
